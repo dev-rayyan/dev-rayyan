@@ -19,6 +19,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,sass,php,laravel,react,next,redux,materialui,nodejs,expressjs,mongodb,mysql,postman)](https://skillicons.dev)
 
+<br/>
+<h3>Connect with me</h3>
+<br/>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrayyan)
+[![twitter](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.rayyan)
 <!--
 **dev-rayyan/dev-rayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
