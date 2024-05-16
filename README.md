@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=200&color=E45353&width=435&lines=MERN+Stack+Developer;PHP+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=200&color=E45353&width=435&lines=MERN+Stack+Developer;Laravel+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning C# | ASP.NET | MSSQL
 - 🥅 2023 Goals: Learn more about web3 and best practices of web development
