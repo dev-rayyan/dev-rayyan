@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=200&color=E45353&width=435&lines=MERN+Stack+Developer;Laravel+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning C# | ASP.NET | MSSQL
-- 🥅 2023 Goals: Learn more about web3 and best practices of web development
+- 🥅 2025 Goals: Learn more about web3 and best practices of web development
 - ⚡ Hobbies: I love to do gaming
 
 <br/>
