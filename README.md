@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=200&color=E45353&width=435&lines=MERN+Stack+Developer;Laravel+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning C# | ASP.NET | MSSQL
-- 🥅 2025 Goals: Learn more about web3 and best practices of web development
+- 🥅 2026 Goals: Learn more about web3 and best practices of web development
 - ⚡ Hobbies: I love to do gaming
 
 <br/>
@@ -17,7 +17,7 @@
 <h3>Languages and Tools</h3>
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,sass,php,laravel,react,next,redux,materialui,nodejs,expressjs,mongodb,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,sass,php,laravel,react,next,redux,materialui,nodejs,expressjs,mongodb,mysql,postman,c,cs,dotnet,gcp,aws,cloudflare)](https://skillicons.dev)
 
 <br/>
 <h3>Connect with me</h3>
