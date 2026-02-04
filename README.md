@@ -8,10 +8,10 @@
 - 🥅 2026 Goals: Learn more about web3 and best practices of web development
 - ⚡ Hobbies: I love to do gaming
 
-<br/>
+<!-- <br/>
 <h3>My Stats</h3>
 <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rayyan&theme=dark" alt="dev-rayyan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rayyan&theme=dark" alt="dev-rayyan" /> -->
 
 <br/>
 <h3>Languages and Tools</h3>
