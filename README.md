@@ -1,4 +1,4 @@
-### Hi there, I'm Rayyan Hafeez 👋
+### Hi there, I'm Muhammad Rayyan 👋
 
 <h3>I am a</h3>
 
